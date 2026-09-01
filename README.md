@@ -12,13 +12,19 @@ Too much enterprise software turns management requirements into additional work 
 
 ### Worker Matters
 
-An open-source initiative built around a simple idea:
+An open-source initiative for building software from the perspective of frontline workers in labor-intensive industries.
 
 > **Technology should adapt to people, not make people adapt to technology.**
 
-I'm currently building software from real operational workflows, starting with the garment and apparel industry.
+We believe workers should benefit from software simply by doing their work.
 
-The first open-source project under Librator will be **Sample Room OS** — a workflow system designed from the perspective of garment sample-room workers and the people who actually operate the process.
+Enterprise software often gives management better information by asking frontline employees to perform more data entry, reporting, confirmation, and repetitive administrative work.
+
+We want to explore a different approach:
+
+**Start with real work. Understand the worker. Remove unnecessary actions. Let useful data emerge naturally from the work itself.**
+
+Our first open-source project will be **Sample Room OS**, built around real workflows in garment sample rooms.
 
 ## Principles
 
