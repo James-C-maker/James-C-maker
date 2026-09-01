@@ -28,11 +28,11 @@ Our first open-source project will be **Sample Room OS**, built around real work
 
 ## Principles
 
-- Human input should be the last resort.
-- Software should eliminate duplicate work.
-- Operational data should emerge naturally from real work whenever possible.
 - Frontline workers are users, not data-entry endpoints.
-- Every click we require from a worker should justify its existence.
+- Human input should be the last resort.
+- Software should remove work, not relocate it.
+- Operational data should emerge naturally from real work whenever possible.
+- Every action we require from a worker should justify its existence.
 
 ## Current focus
 
